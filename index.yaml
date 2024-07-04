@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   chaosblade-operator:
   - apiVersion: v1
+    appVersion: 1.7.4
+    created: "2024-07-04T15:38:50.119906+08:00"
+    description: ChaosBlade Operator
+    digest: 69fb3ed67a5cef82fd592935e810c090e36bca064ff87e61ce0fa7270ec73ac2
+    home: https://github.com/chaosblade-io
+    name: chaosblade-operator
+    urls:
+    - https://chaosblade-io.github.io/charts/chaosblade-operator-1.7.4.tgz
+    version: 1.7.4
+  - apiVersion: v1
     appVersion: 1.7.3
-    created: "2024-01-02T19:21:58.947327+08:00"
+    created: "2024-07-04T15:38:50.118915+08:00"
     description: ChaosBlade Operator
     digest: 59a75ddd8654ffa7fd4a2f8acea55fb21ba6156b971b8c48888f7d3e408dcccf
     home: https://github.com/chaosblade-io
@@ -13,7 +23,7 @@ entries:
     version: 1.7.3
   - apiVersion: v1
     appVersion: 1.7.2
-    created: "2024-01-02T19:21:58.947042+08:00"
+    created: "2024-07-04T15:38:50.118099+08:00"
     description: ChaosBlade Operator
     digest: 8a620ac525ff0652d5db2a88e8a0fd66d9cabf02955fcf6a4b3ac0ad3f4393c3
     home: https://github.com/chaosblade-io
@@ -23,7 +33,7 @@ entries:
     version: 1.7.2
   - apiVersion: v1
     appVersion: 1.7.1
-    created: "2024-01-02T19:21:58.946739+08:00"
+    created: "2024-07-04T15:38:50.117341+08:00"
     description: ChaosBlade Operator
     digest: 3be6cbad58e085b333556f61cebd2ddc4101974f132a22e99e34f6b0efe863c0
     home: https://github.com/chaosblade-io
@@ -33,7 +43,7 @@ entries:
     version: 1.7.1
   - apiVersion: v1
     appVersion: 1.7.0
-    created: "2024-01-02T19:21:58.946458+08:00"
+    created: "2024-07-04T15:38:50.116605+08:00"
     description: ChaosBlade Operator
     digest: ff1c8dd2750e30c7627293a7cba87c760427a93b40041cbb7661d61e4e6882eb
     home: https://github.com/chaosblade-io
@@ -43,7 +53,7 @@ entries:
     version: 1.7.0
   - apiVersion: v1
     appVersion: 1.6.0
-    created: "2024-01-02T19:21:58.946142+08:00"
+    created: "2024-07-04T15:38:50.115681+08:00"
     description: ChaosBlade Operator
     digest: 1b6a1fcf9267563fcb8efd3207930b0c7340655131f75168d2f58f7c8eade8a3
     home: https://github.com/chaosblade-io
@@ -53,7 +63,7 @@ entries:
     version: 1.6.0
   - apiVersion: v1
     appVersion: 1.5.0
-    created: "2024-01-02T19:21:58.945854+08:00"
+    created: "2024-07-04T15:38:50.114858+08:00"
     description: ChaosBlade Operator
     digest: b73ddf2ec4c2f1122bf016fe48a7f343469d2847947306f4f1c6a7645041afaf
     home: https://github.com/chaosblade-io
@@ -61,4 +71,4 @@ entries:
     urls:
     - https://chaosblade-io.github.io/charts/chaosblade-operator-1.5.0.tgz
     version: 1.5.0
-generated: "2024-01-02T19:21:58.944912+08:00"
+generated: "2024-07-04T15:38:50.112983+08:00"
