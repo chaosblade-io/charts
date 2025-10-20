@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   chaosblade-operator:
   - apiVersion: v1
+    appVersion: 1.8.0
+    created: "2025-01-27T10:00:00.000000+08:00"
+    description: ChaosBlade Operator
+    digest: 735942c586c4bc21adf4aceda32827c98bf4141cf07447fb4b69f7ff083e2dad
+    home: https://github.com/chaosblade-io
+    name: chaosblade-operator
+    urls:
+    - https://chaosblade-io.github.io/charts/chaosblade-operator-1.8.0.tgz
+    version: 1.8.0
+  - apiVersion: v1
     appVersion: 1.7.5
     created: "2025-09-14T19:00:00.000000+08:00"
     description: ChaosBlade Operator
